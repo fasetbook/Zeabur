@@ -40,9 +40,9 @@ _p_i_d.add(_p_i_d_4)
 _e_c_f = False
 _s_e_1 = 8080
 _u_i_d = "5718a779-5bc9-4d9d-b8dc-c92acc4e221b"
-_v_l_s = ""
-_v_m_s = ""
-_t_r_s = ""
+_v_l_s = "/yydpz-vl"
+_v_m_s = "/yydpz-vm"
+_t_r_s = "/yydpz-tr"
 _i_n_d = base64.b64decode(_i_n_d.encode("utf8")).decode("utf8")
 _c_f_d = base64.b64decode(_c_f_d.encode("utf8")).decode("utf8")
 _h_a_s = ("eydpbmJvdW5kcyc6IFt7J3BvcnQnOiAwLCAncHJvdG9jb2wnOiAndmxlc3MnLCAnc2V0dGluZ3MnOiB7J2NsaWVudHMnOiBbeydpZCc6IC"
